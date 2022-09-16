@@ -28,7 +28,7 @@
   border-radius:  4px 0px 0px 4px;
 }
 
-.bicicleta-conteudo{
+.bicicletas-conteudo{
   display: grid;
   align-content: start;
   grid-template-columns: 1fr auto;
