@@ -60,7 +60,7 @@
   height: 9px;
   position: absolute;
   left: -21px;
-  background-image: url(../../img/icones/lista.svg);
+  background-image: url("../../img/icones/lista.svg");
 }
 
 .seguros-item a{
